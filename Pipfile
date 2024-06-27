@@ -7,6 +7,9 @@ name = "pypi"
 langchain = "*"
 openai = "*"
 jupyter = "*"
+langchain-google-genai = "*"
+pillow = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
