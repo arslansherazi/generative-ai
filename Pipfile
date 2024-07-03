@@ -10,6 +10,7 @@ jupyter = "*"
 langchain-google-genai = "*"
 pillow = "*"
 python-dotenv = "*"
+langchain-community = "*"
 
 [dev-packages]
 
