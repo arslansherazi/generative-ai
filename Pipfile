@@ -11,6 +11,7 @@ langchain-google-genai = "*"
 pillow = "*"
 python-dotenv = "*"
 langchain-community = "*"
+pypdf2 = "*"
 
 [dev-packages]
 
