@@ -12,6 +12,10 @@ pillow = "*"
 python-dotenv = "*"
 langchain-community = "*"
 pypdf2 = "*"
+langchain-openai = "*"
+pypdf = "*"
+duckduckgo-search = "*"
+langchain-core = "*"
 
 [dev-packages]
 
