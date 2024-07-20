@@ -9,3 +9,6 @@ pipenv shell
 ~~~
 pipenv install
 ~~~
+~~~
+pipenv update <lib_name_here>
+~~~
