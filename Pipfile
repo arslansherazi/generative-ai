@@ -16,6 +16,7 @@ langchain-openai = "*"
 pypdf = "*"
 duckduckgo-search = "*"
 langchain-core = "*"
+faiss-gpu-cu12 = "*"
 
 [dev-packages]
 
