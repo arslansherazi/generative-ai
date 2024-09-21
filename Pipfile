@@ -17,6 +17,9 @@ pypdf = "*"
 duckduckgo-search = "*"
 langchain-core = "*"
 faiss-gpu-cu12 = "*"
+yt-dlp = "*"
+pydub = "*"
+ffmpeg-python = "*"
 
 [dev-packages]
 

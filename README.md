@@ -12,3 +12,8 @@ pipenv install
 ~~~
 pipenv update <lib_name_here>
 ~~~
+
+## Install Binaries
+~~~
+sudo apt install ffmpeg
+~~~
