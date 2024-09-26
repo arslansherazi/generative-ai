@@ -24,6 +24,7 @@ chromadb = "*"
 lark = "*"
 langchain-chroma = "*"
 scikit-learn = "*"
+docarray = "*"
 
 [dev-packages]
 
