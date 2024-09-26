@@ -20,6 +20,7 @@ faiss-gpu-cu12 = "*"
 yt-dlp = "*"
 pydub = "*"
 ffmpeg-python = "*"
+chromadb = "*"
 
 [dev-packages]
 
