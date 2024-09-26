@@ -21,6 +21,9 @@ yt-dlp = "*"
 pydub = "*"
 ffmpeg-python = "*"
 chromadb = "*"
+lark = "*"
+langchain-chroma = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
