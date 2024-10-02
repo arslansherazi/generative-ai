@@ -7,6 +7,9 @@ pipenv --python 3.12
 pipenv shell
 ~~~
 ~~~
+pip install pipenv
+~~~
+~~~
 pipenv install
 ~~~
 ~~~
