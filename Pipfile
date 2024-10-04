@@ -24,6 +24,7 @@ lark = "*"
 langchain-chroma = "*"
 scikit-learn = "*"
 docarray = "*"
+weaviate-client = "==3.26.7"
 
 [dev-packages]
 
