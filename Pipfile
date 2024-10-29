@@ -25,6 +25,7 @@ langchain-chroma = "*"
 scikit-learn = "*"
 docarray = "*"
 weaviate-client = "==3.26.7"
+llama2 = "*"
 
 [dev-packages]
 

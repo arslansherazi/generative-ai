@@ -4,3 +4,4 @@ __pycache__/
 .env
 static/youtube/
 static/chroma/
+.DS_Store
