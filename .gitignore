@@ -5,3 +5,4 @@ __pycache__/
 static/youtube/
 static/chroma/
 .DS_Store
+static/models/

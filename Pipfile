@@ -26,6 +26,10 @@ scikit-learn = "*"
 docarray = "*"
 weaviate-client = "==3.26.7"
 llama2 = "*"
+datasets = "*"
+transformers = "*"
+torch = "*"
+accelerate = "*"
 
 [dev-packages]
 
