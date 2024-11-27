@@ -30,6 +30,7 @@ datasets = "*"
 transformers = "*"
 torch = "*"
 accelerate = "*"
+anthropic = "*"
 
 [dev-packages]
 
