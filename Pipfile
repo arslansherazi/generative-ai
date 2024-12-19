@@ -31,6 +31,9 @@ transformers = "*"
 torch = "*"
 accelerate = "*"
 anthropic = "*"
+langchain-mistralai = "*"
+panel = "*"
+jupyter-bokeh = "*"
 
 [dev-packages]
 
