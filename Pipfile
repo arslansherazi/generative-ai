@@ -39,6 +39,7 @@ neo4j = "*"
 networkx = "*"
 faiss-cpu = "*"
 langchain-experimental = "*"
+langsmith = "*"
 
 [dev-packages]
 
