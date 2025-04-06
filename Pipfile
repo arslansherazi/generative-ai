@@ -35,6 +35,10 @@ langchain-mistralai = "*"
 panel = "*"
 jupyter-bokeh = "*"
 langgraph = "*"
+neo4j = "*"
+networkx = "*"
+faiss-cpu = "*"
+langchain-experimental = "*"
 
 [dev-packages]
 
