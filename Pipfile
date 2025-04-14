@@ -41,6 +41,9 @@ faiss-cpu = "*"
 langchain-experimental = "*"
 langsmith = "*"
 openllm = "*"
+crewai = "*"
+autogen = "*"
+matplotlib = "*"
 
 [dev-packages]
 
