@@ -42,8 +42,9 @@ langchain-experimental = "*"
 langsmith = "*"
 openllm = "*"
 crewai = "*"
-autogen = "*"
 matplotlib = "*"
+pip = "*"
+install = "*"
 
 [dev-packages]
 
