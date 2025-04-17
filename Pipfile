@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-langchain = "*"
 openai = "*"
 jupyter = "*"
 langchain-google-genai = "*"
@@ -43,8 +42,7 @@ langsmith = "*"
 openllm = "*"
 crewai = "*"
 matplotlib = "*"
-pip = "*"
-install = "*"
+langchain = "*"
 
 [dev-packages]
 
