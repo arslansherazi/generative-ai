@@ -143,6 +143,7 @@ langchain-community==0.3.21
 langchain-core==0.3.52
 langchain-experimental==0.3.4
 langchain-google-genai==2.1.3
+langchain-huggingface==0.1.2
 langchain-mistralai==0.2.10
 langchain-openai==0.3.13
 langchain-text-splitters==0.3.8
@@ -274,6 +275,7 @@ schema==0.7.7
 scikit-learn==1.6.1
 scipy==1.15.2
 Send2Trash==1.8.3
+sentence-transformers==4.1.0
 setuptools==78.1.0
 shellingham==1.5.4
 simple-di==0.1.5
