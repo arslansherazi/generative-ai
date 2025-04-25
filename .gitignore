@@ -7,3 +7,4 @@ static/chroma/
 .DS_Store
 static/models/
 .cache
+.venv
