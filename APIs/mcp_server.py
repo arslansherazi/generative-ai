@@ -1,3 +1,6 @@
+"""
+This is a simple FastAPI server that accepts audio files, transcribes them using WhisperX,
+"""
 from pathlib import Path
 
 from pydantic import BaseModel
