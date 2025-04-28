@@ -1,3 +1,6 @@
+"""
+MCP Client for FastAPI
+"""
 import requests
 
 
