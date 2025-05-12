@@ -8,3 +8,6 @@ static/chroma/
 static/models/
 .cache
 .venv
+test.py
+test_*.py
+test*.py
