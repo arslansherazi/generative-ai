@@ -21,6 +21,28 @@ pipenv update <lib_name_here>
 sudo apt install ffmpeg
 ~~~
 
+## Add jupyter kernel (Run this command inside the venv)
+#### Pre-requisite
+~~~
+uv pip install ipykernel
+~~~
+~~~
+python -m ipykernel install --user --name=venv-genai --display-name "GenAI Env"
+~~~
+Restart the IDE once after running above commands
+
+## Add Python debugger
+~~~
+Cmd + Shift + P 
+~~~
+~~~
+Python: Select Interpreter
+~~~
+Select the venv or add the path in `Enter interpreter path`
+~~~
+python_venv_folder/bin/activate
+~~~
+
 ## Multi Agent Frameworks
 **AutoGen:** Direct agent-to-agent messaging with a built-in chat history and conversation management.
 
