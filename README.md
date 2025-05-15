@@ -1,24 +1,18 @@
 # Generative AI
 ## Project Setup 
 ~~~
-pipenv --python 3.12
+uv venv venv-genai
 ~~~
 ~~~
-pipenv shell
+source venv-genai/bin/activate
 ~~~
 ~~~
-pip install pipenv
-~~~
-~~~
-pipenv install
-~~~
-~~~
-pipenv update <lib_name_here>
+uv pip install -r requirements.txt
 ~~~
 
 ## Install Binaries
 ~~~
-sudo apt install ffmpeg
+brew install ffmpeg
 ~~~
 
 ## Add jupyter kernel (Run this command inside the venv)
