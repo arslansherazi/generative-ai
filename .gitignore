@@ -11,3 +11,4 @@ static/models/
 test.py
 test_*.py
 test*.py
+embedding_cache.json
